@@ -3,7 +3,7 @@
 <p>I'm currently learning data science with python!</p>
 <p>I'll be uploding some ML, and data analysis excersies while I learn new stuff...</p>
 <p>You may also find some python basics in here</p>
-<p>I'll try to keep this understandable. You can reach me in Tweeter <a href=https://www.tweeeter.com/maurogome>@maurogome</a></p>
+<p>I'll try to keep this understandable. You can reach me in Twitter <a href=https://www.twitter.com/maurogome>@maurogome</a></p>
 <p>Almost forgot, I'm an electronic engineer</p>
 
 
