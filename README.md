@@ -1,11 +1,10 @@
 ## Mauricio Gomez
-___
 ### Hi there 👋
 
 Welcome to my repository!
 I'm an electronic engineer from Colombia. I'm currently learning data science with Python and I'm looking forward to learn some machine learning an artificial intelligence , so I will be uploading proyects related to this path.
 If you find something useful in here feel free to use it.
-
+___
 You may find me in twitter and other social media as <a href='https://www.twitter.com/maurogome'>maurogome</a>
 
 <!--
