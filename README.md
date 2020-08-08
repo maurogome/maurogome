@@ -1,12 +1,12 @@
+## Mauricio Gomez
+___
 ### Hi there 👋
 
-<p>I'm currently learning data science with python!</p>
-<p>I'll be uploding some ML, and data analysis excersies while I learn new stuff...</p>
-<p>You may also find some python basics in here</p>
-<p>I'll try to keep this understandable. You can reach me in Twitter <a href=https://www.twitter.com/maurogome>@maurogome</a></p>
-<p>Almost forgot, I'm an electronic engineer</p>
+Welcome to my repository!
+I'm an electronic engineer from Colombia. I'm currently learning data science with Python and I'm looking forward to learn some machine learning an artificial intelligence , so I will be uploading proyects related to this path.
+If you find something useful in here feel free to use it.
 
-
+You may find me in twitter and other social media as <a href='https://www.twitter.com/maurogome'>maurogome</a>
 
 <!--
 **maurogome/maurogome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
